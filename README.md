@@ -3,7 +3,7 @@ Amore is a simple copy of Tinder app without network layer.
 
 It is a example of using MVVM architecture and SwiftUI.
 
-For image fetching it use [Kingfisher](https://github.com/onevcat/Kingfisher).
+For image fetching it uses [Kingfisher](https://github.com/onevcat/Kingfisher).
 
 | Main screen | Chat screen |
 | :---: |  :---: |
